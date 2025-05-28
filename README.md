@@ -40,4 +40,4 @@ python pdf_protector.py <input_pdf> <output_pdf> <password>
 ```
 
 ## 👨‍💻 Developed By
-ketaxpl0it
+~ketaxpl0it

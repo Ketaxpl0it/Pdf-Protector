@@ -39,5 +39,5 @@ pip install PyPDF2 colorama
 python pdf_protector.py <input_pdf> <output_pdf> <password>
 ```
 
-##👨‍💻 Developed By
+## 👨‍💻 Developed By
 ketaxpl0it
